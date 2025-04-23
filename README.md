@@ -1,4 +1,12 @@
-### Hello World! 👋
+### Burhan Maseel! 👋
+#### Data Science Enthusiast and a Back-End Web Development experienced professional
+
+- 🔭 I’m currently working at VML Enterprise Solutions Portugal
+- 🌱 I’m currently learning Data Science and Machine Learning at Toronto Metropolitan University (MSc Data Science and Analytics)
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/burhan-maseel-14b82b58/
+- ⚡ Fun fact: Working in Web Development, freelancing in HubSpot CRM and studying in Data Science and Analytics
 
 <!--
 **burhanmaseel/burhanmaseel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
