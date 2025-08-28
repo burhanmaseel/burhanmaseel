@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science and Machine Learning at Toronto Metropolitan University (MSc Data Science and Analytics)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/burhan-maseel-14b82b58/
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/burhan-maseel/
 - ⚡ Fun fact: Working in Web Development, freelancing in HubSpot CRM and studying in Data Science and Analytics
 
 <!--
