@@ -1,8 +1,7 @@
 ### Burhan Maseel! 👋
 #### Data Science Enthusiast and a Back-End Web Development experienced professional
 
-- 🔭 I’m currently working at VML Enterprise Solutions Portugal
-- 🌱 I’m currently learning Data Science and Machine Learning at Toronto Metropolitan University (MSc Data Science and Analytics)
+- 🔭 I’m currently working as a Data Science Research Associate at DEAL Lab in Toronto Metropolitan University
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/burhan-maseel/
