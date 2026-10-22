@@ -1,7 +1,7 @@
 ### Burhan Maseel! 👋
 
-Data Scientist & Backend Engineer with 7+ years of experience building scalable systems and data-driven products.  
-Currently working as a **Data Science Research Associate** at **TMU (DEAL Lab)**.
+Data Scientist & Full-stack Engineer with 7+ years of experience building scalable systems and data-driven products.  
+Currently working as a **Engineer III** at **Groupe Dynamite**.
 
 - 🔭 Research interests: Machine Learning, Time-Series Forecasting, Graphical Models
 - 🧠 Applied AI: LLMs, recommender systems, predictive analytics
